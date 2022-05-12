@@ -35,3 +35,6 @@ a {
   border-radius: 5px;
   cursor: pointer;
 }
+#alert-header {
+  background-color: #cff4fc;
+}
